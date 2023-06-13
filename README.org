@@ -1,0 +1,10 @@
+* whofields
+
+HTML field rendering and input validation utilities written in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/michaeljforster/whofields.git   |
+| commit  | dec5fbd  |
+| systems | whofields |
+|---------+-------------------------------------------|
+
